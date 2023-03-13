@@ -1,2 +1,2 @@
-# KATTIS Problems
-All kattis problems that I have completed are listed in this repository. They are sorted after difficulty. I have used various languages like python and C.
+# KATTIS Problems :cat:
+KATTIS is a website full of various problems that you can solve yourself. A website where you can test your knowledge in coding. All problems that I have completed so far are listed in this repository and are sorted after difficulty. I have used various languages like C, Python and Java. More details about the problems can be found on [kattis.com](https://open.kattis.com/).

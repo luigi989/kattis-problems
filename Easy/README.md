@@ -95,6 +95,6 @@ Here all the easy problems are listed. In the table below you can find all probl
 | [Östgötska](Problems/dialect.java) | 1.7 | Java |
 | [Cetiri](Problems/cetiri.java) | 1.7 | Java |
 | [Secret Message](Problems/secretMessage.java) | 1.7 | Java |
-| [Planting Trees](Problems/plantingTrees.java | 1.8 | Java |
+| [Planting Trees](Problems/plantingTrees.java) | 1.8 | Java |
 | [Egypt](Problems/egypt.java) | 2.2 | Java |
 | [Some Sum](Problems/someSun.java) | 2.2 | Java |
